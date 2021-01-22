@@ -1,0 +1,4 @@
+OC版本：0.6.6
+系统版本：Big Sur 11.1.0
+已知BUG：麦克风无效，intel无线网卡自动连接连接无效
+EFI自带主题，如果不需要请删除EFI-OC-Resources文件夹
