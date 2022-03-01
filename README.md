@@ -1,8 +1,7 @@
 <h3>锐龙3600黑苹果引导</h3></br>
-Open Core:0.7.6</br>
-OpenCore Configurator:0.7.6测试版</br>
+Open Core:0.7.8</br>
 CPU:R5 3600</br>
-显卡：迪兰RX460</br>
+显卡：迪兰RX560</br>
 声卡：ALC 892</br>
 网卡：BCM94360CS2</br>
 </br>
